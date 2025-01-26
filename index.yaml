@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  database:
+  - apiVersion: v2
+    appVersion: latest
+    created: "2025-01-26T13:40:07.206520425Z"
+    description: A Helm chart for Kubernetes
+    digest: 3bb7c04619c9bc2650126525939468ec02955441343ca97c81854295d4f98d02
+    name: database
+    type: application
+    urls:
+    - database-0.1.0.tgz
+    version: 0.1.0
+generated: "2025-01-26T13:40:07.206068313Z"
